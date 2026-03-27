@@ -9,7 +9,10 @@ The goal of this project is to leverage data analytics to:
 - Identify top-performing products  
 - Analyze revenue trends over time  
 - Understand sales distribution across categories  
-- Support data-driven decision-making  
+- Support data-driven decision-making
+
+## What-if Scenario Simulation
+![Simulation](images/dashboard_12.png)
 
 ---
 
