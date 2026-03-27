@@ -12,7 +12,7 @@ The goal of this project is to leverage data analytics to:
 - Support data-driven decision-making
 
 ## What-if Scenario Simulation
-![Simulation](Amazon_Sales_Data/images/dashboard_12.png)
+![Simulation](Amazon_Sales_Data/Images/dashboard_12.png)
 
 ---
 
